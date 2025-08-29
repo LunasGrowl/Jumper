@@ -1,2 +1,7 @@
 # Jumper
-Lmao go have some fun
+
+## Tasks
+
+- [] Set up the repo
+- [] Set up the unity project
+- [] Figure out the next steps
